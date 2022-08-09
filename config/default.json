@@ -1,0 +1,5 @@
+{
+    "dbURI": "mongodb+srv://ecomm-user:Sudipmohanty@cluster0.kdvr9ad.mongodb.net/?retryWrites=true&w=majority",
+    "jwtsecret": "ecommerce",
+    "StripeAPIKey": "sk_test_51LUX01SDjj4aEaMOJUWEr0KzHoVEcmlw6iB0mTO7duQBXamtoioiqwOStPUlLse6pml1Z7762B4471TTn2Vx6B9s00rFCRjK7O"
+}
